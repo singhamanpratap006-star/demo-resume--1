@@ -15,6 +15,7 @@ Welcome to my profile! I am a Bachelor of Computer Applications (BCA) student bu
 
 I am developing my understanding of:
 
+-Currently learning: GitHub
 - Python programming
 - C programming fundamentals
 - R programming fundamentals
